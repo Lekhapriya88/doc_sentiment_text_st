@@ -1,0 +1,14 @@
+langchain
+pypdf
+cryptography
+docx2txt
+tiktoken
+openai
+docx
+InstructorEmbedding
+streamlit==1.31.1
+#ollama==0.1.6
+streamlit_mic_recorder==0.0.4
+transformers
+nltk
+scikit-learn
